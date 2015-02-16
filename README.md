@@ -1,2 +1,2 @@
 # datasciencecoursera
-Course project for Data Scientist's Toolbox give through coursera.org
+Course project for Data Scientist's Toolbox given through coursera.org
